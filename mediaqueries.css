@@ -1,0 +1,14 @@
+@media (max-width: 600px) {
+    #form {
+        width: 100%;
+    }
+    #submit {
+        height: 15%;
+    }
+    .row-two {
+        padding: 20px
+    }
+    .text {
+        margin: 5px 10px 5px 8px;
+    }
+}
