@@ -41,6 +41,7 @@ body {
     padding: 20px;
 }
 
+/* EDITS THE TEXT INPUT BOXES */
 .text-input {
     width: 60px;
     height: 30px;
@@ -77,6 +78,7 @@ body {
     background-color: #0a8ef2;
 }
 
+/* LINES UP THE TEXT  */
 .text {
     display: inline-block;
     margin: 5px 20px 5px 8px;
