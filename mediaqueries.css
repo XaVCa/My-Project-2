@@ -17,7 +17,7 @@
     }
 }
 
-@media (min-width: 2560px) {
+@media (max-width: 2560px) {
     #form {
         height: 250px;
         width: 500px;
