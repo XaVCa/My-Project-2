@@ -1,14 +1,32 @@
 @media (max-width: 600px) {
     #form {
-        width: 100%;
+        height: 230px;
+        width: 375px;
     }
     #submit {
-        height: 15%;
+        height: 30px;
     }
     .row-two {
         padding: 20px
     }
     .text {
         margin: 5px 10px 5px 8px;
+    }
+    .text-input {
+        width: 40px;
+    }
+}
+
+@media (min-width: 2560px) {
+    #form {
+        height: 300px;
+        width: 500px;
+    }
+    #submit {
+        margin-top: 15px;
+    }
+    p.info {
+        font-size: 200px;
+        font-weight: 300px;
     }
 }
